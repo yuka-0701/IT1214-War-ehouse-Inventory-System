@@ -1,4 +1,4 @@
-=== Warehouse Inventory System ===
+== Warehouse Inventory System ==
 1. Add Item
 2. Remove Item
 3. Update Quantity
